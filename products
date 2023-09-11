@@ -8,7 +8,7 @@
         "category":"Body",
         "brand": "Amortals",
         "rating":3.9,
-        "sells": 500,
+        "sells": 500
     },
     {
         "uuid": "2",
@@ -19,7 +19,7 @@
         "category":"Body",
         "brand": "Esfolio",
         "rating":4.5,
-        "sells": 1500,
+        "sells": 1500
     },
     {
         "uuid": "3",
@@ -30,7 +30,7 @@
         "category":"Body",
         "brand": "Esfolio",
         "rating": 4.9,
-        "sells": 2000,
+        "sells": 2000
     },
     {
         "uuid": "4",
@@ -41,7 +41,7 @@
         "category":"Body",
         "brand": "Esfolio",
         "rating":4.8,
-        "sells": 1140,
+        "sells": 1140
     },
     {
         "uuid": "5",
@@ -52,7 +52,7 @@
         "category":"Body",
         "brand": "Holika Holika",
         "rating": 3.8,
-        "sells": 965,
+        "sells": "965"
     },
     {
         "uuid": "6",
@@ -63,7 +63,7 @@
         "category":"Body",
         "brand": "Illiyoon",
         "rating": 4.9,
-        "sells": 3568,
+        "sells": 3568
     },
     {
         "uuid": "7",
@@ -74,7 +74,7 @@
         "category":"Body",
         "brand": "Kwailnara",
         "rating": 4.7,
-        "sells": 578,
+        "sells": 578
     },
     {
         "uuid": "8",
@@ -85,7 +85,7 @@
         "category":"Body",
         "brand": "Lacvert",
         "rating": 4.1,
-        "sells": 589,
+        "sells": 589
     },
     {
         "uuid": "9",
@@ -96,7 +96,7 @@
         "category":"Body",
         "brand": "Petitfee",
         "rating": 4.7,
-        "sells": 1254,
+        "sells": 1254
     },
     {
         "uuid": "10",
@@ -107,7 +107,7 @@
         "category":"Body",
         "brand": "Rire",
         "rating": 4.4,
-        "sells": 1748,
+        "sells": 1748
     },
     {
         "uuid": "11",
@@ -118,127 +118,17 @@
         "category":"Body",
         "brand": "Ucine beauty",
         "rating": 4.7,
-        "sells": 1248,
+        "sells": 1248
     },
     {
         "uuid": "12",
         "title": "Aromatica - Rosemary Root Enhancer - 100ml",
         "price": 12.99,
         "description": "Rosemary Root Enhancer is a unique scalp essence that contains only nutrients needed for scalp.",
-        "image":,
+        "image":"",
         "category":"Hair",
         "brand": "Aromatica",
         "rating": 4.8,
-        "sells": 1486,
-    },
-    {
-        "uuid": "13",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "14",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "15",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "16",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "17",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "18",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "19",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "20",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "21",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
-    },
-    {
-        "uuid": "",
-        "title": "",
-        "price": 5.29,
-        "description": "",
-        "image":,
-        "category":"",
-        "brand": "",
-        "rating":,
-        "sells": ,
+        "sells": 1486
     }
 ]
