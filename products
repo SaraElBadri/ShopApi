@@ -125,10 +125,111 @@
         "title": "Aromatica - Rosemary Root Enhancer - 100ml",
         "price": 12.99,
         "description": "Rosemary Root Enhancer is a unique scalp essence that contains only nutrients needed for scalp.",
-        "image":"",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/12.jpg?raw=true",
         "category":"Hair",
         "brand": "Aromatica",
         "rating": 4.8,
         "sells": "1486"
+    },
+    {
+        "uuid": "13",
+        "title": "BONAJOUR - Tea Tree Scalp Refreshing Shampoo - 320m",
+        "price": 17.79,
+        "description": "A scalp care shampoo that cleanses unnecessary oil and dead skin cells while providing refreshing effects.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/13.jpg?raw=true",
+        "category":"Hair",
+        "brand": "Bonajour",
+        "rating": 3.8,
+        "sells": "356"
+    },
+    {
+        "uuid": "14",
+        "title": "Elizavecca - CER-100 Collagen Coating Hair Muscle Shampoo - 500ml",
+        "price": 15.39,
+        "description": "For hair that has been strained by constant dyeing and perms. Moisturizes, strengthens, and nourishes the hair.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/14.jpg?raw=true",
+        "category":"Hair",
+        "brand": "Elizavecca",
+        "rating": 4.1,
+        "sells": "698"
+    },
+    {
+        "uuid": "15",
+        "title": "Elizavecca - Collagen Ceramide Coating Protein Treatment",
+        "price": 6.49,
+        "description": "With collagen treatment that protects and supplies nutrients to damaged hair. ",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/15.jpg?raw=true",
+        "category":"Hair",
+        "brand": "Elizavecca",
+        "rating": 4.6,
+        "sells": "3120"
+    },
+    {
+        "uuid": "16",
+        "title": "Healing Bird - Ultra Protein Hair Oil - 100ml",
+        "price": 17.59,
+        "description": "Contains 100mL oil to nourish hair and scalp.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/16.jpg?raw=true",
+        "category":"Hair",
+        "brand": "Healing bird",
+        "rating": 4.0,
+        "sells": "648"
+    },
+    {
+        "uuid": "17",
+        "title": "Lador - Anti Yellow Shampoo - 300ml",
+        "price": 15.29,
+        "description": "Give freshness and radiance to a light shade, also neutralize the yellow shades on the hair.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/17.jpg?raw=true",
+        "category":"Hair",
+        "brand": "Lador",
+        "rating": 3.9,
+        "sells": "736"
+    },
+    {
+        "uuid": "18",
+        "title": "RiRe - Hair Salon Clinic Pack - 150ml",
+        "price": 7.59,
+        "description": "A hair mask helps repair damaged hair and avoid hair loss with deep nourishment.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/18.jpg?raw=true",
+        "category":"Hair",
+        "brand": "Rire",
+        "rating": 4.0,
+        "sells": "872"
+    },
+    {
+        "uuid": "19",
+        "title": "SOME BY MI - Cica Peptide Anti Hair Loss Derma Scalp Shampoo - 285ml",
+        "price": 16.39,
+        "description": "Alleviates hair loss symptoms and nourishes the scalp with biotin and proteins.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/19.jpg?raw=true",
+        "category":"Hair",
+        "brand": "Some by mi",
+        "rating": 4.9,
+        "sells": "3125"
+    },
+    {
+        "uuid": "20",
+        "title": "SWANICOCO - Pure Hinoki Cypress Scalp Nourishing Shampoo - 500ml",
+        "price": 23.99,
+        "description": "With natural Cypress Scalp Nourishing Shampoo, it helps to relieve hair loss.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/20.jpg?raw=true",
+        "category":"Hair",
+        "brand": "Swanicoco",
+        "rating": 4.4,
+        "sells": "1369"
+    },
+    {
+        "uuid": "21",
+        "title": "THE PURE LOTUS - Lotus Leaf Treatment - 220ml",
+        "price": 13.29,
+        "description": "With sub-acidic treatment to help with damaged hair's pH balance.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/hair/21.jpg?raw=true",
+        "category":"Hair",
+        "brand": "The pure lotus",
+        "rating": 4.3,
+        "sells": "359"
     }
+    
+
 ]
