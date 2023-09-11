@@ -229,6 +229,116 @@
         "brand": "The pure lotus",
         "rating": 4.3,
         "sells": "359"
+    },
+    {
+        "uuid": "22",
+        "title": "A'PIEU - Honey & Milk Lip Oil",
+        "price": 3.99,
+        "description": "Lip oil infused with nourishing and moisturizing ingredients like honey and milk.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/22.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "A'pieu",
+        "rating": 4.5,
+        "sells": "2987"
+    },
+    {
+        "uuid": "23",
+        "title": "CLIO - Kill Cover The New Founwear Cushion Mini SPF50+ PA+++ - 5g",
+        "price": 10.89,
+        "description": "Lightweight formula adheres seamlessly to skin without caking.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/23.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Clio",
+        "rating": 3.9,
+        "sells": "851"
+    },
+    {
+        "uuid": "24",
+        "title": "CORINGCO - Ash Brown Professional 10 Brush Set - 10pcs",
+        "price": 28.09,
+        "description": "By using soft and thin micro-fine artificial material, it prevents the propagation of bacteria and maintains a clean condition for a long time.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/24.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Coringco",
+        "rating": 4.7,
+        "sells": "563"
+    },
+    {
+        "uuid": "25",
+        "title": "Dear, Klairs - Illuminating Supple Blemish Cream",
+        "price": 23.59,
+        "description": "The moist formula protects dry and sensitive skin while adhering tightly to the skin for a silky glow.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/25.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Dear, klairs",
+        "rating": 2.9,
+        "sells": "206"
+    },
+    {
+        "uuid": "26",
+        "title": "Etude House - My Beauty Tool Eyebrow Razor",
+        "price": 1.59,
+        "description": "Eyebrow Razor for shaving and styling the eyebrows.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/26.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Etude house",
+        "rating": 4.9,
+        "sells": "1965"
+    },
+    {
+        "uuid": "27",
+        "title": "MISSHA - 4D Mascara",
+        "price": 3.49,
+        "description": "a smudge-free mascara that lifts up eyelashes without clumping.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/27.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Missha",
+        "rating": 4.4,
+        "sells": "2157"
+    },
+    {
+        "uuid": "28",
+        "title": "MISSHA - Magic Cushion Cover Lasting - 15g (SPF50+ PA+++)",
+        "price": 6.54,
+        "description": "A real adhesive fit cushion that provides excellent coverage and a long lasting effect all day.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/28.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Missha",
+        "rating": 4.5,
+        "sells": "2047"
+    },
+    {
+        "uuid": "29",
+        "title": "MISSHA - M Perfect Cover BB Cream - 50ml",
+        "price": 9.59,
+        "description": "World Best Seller BB Cream Specialized 3-in-1 BB cream with excellent covering plus UV screening, whitening and wrinkle care effect.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/29.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Missha",
+        "rating": 4.9,
+        "sells": "4587"
+    },
+    {
+        "uuid": "30",
+        "title": "Innisfree - No Sebum Mineral Powder - 5g",
+        "price": 8.79,
+        "description": "This sebum control powder is designed to portray a soft and powdery complexion.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/30.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Innisfree",
+        "rating": 4.6,
+        "sells": "1985"
+    },
+    {
+        "uuid": "31",
+        "title": "MissLady - Set of Four Beauty Sponge - 4pcs/Set",
+        "price": 2.29,
+        "description": "This makeup sponge set includes 4 x egg-shaped sponges, which is perfect for various products application.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/makeup/31.jpg?raw=true",
+        "category":"Makeup",
+        "brand": "Misslady",
+        "rating": 4.9,
+        "sells": "2547"
     }
     
 
