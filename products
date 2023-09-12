@@ -339,7 +339,127 @@
         "brand": "Misslady",
         "rating": 4.9,
         "sells": "2547"
+    },
+    {
+        "uuid": "32",
+        "title": "BEAUTY OF JOSEON - Glow Serum : Propolis + Niacinamide - 30ml",
+        "price": 12.99,
+        "description": "Anti-inflammatory, Fights against acne and brightens the skin.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/32.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Beauty of joseon",
+        "rating": 4.6,
+        "sells": "3147"
+    },
+    {
+        "uuid": "33",
+        "title": "BEAUTY OF JOSEON - Revive Eye Serum : Ginseng + Retinal - 30ml",
+        "price": 12.39,
+        "description": "An eye cream that helps to improve wrinkles on the sensitive skin around the eyes by combining ginseng extract and retinal.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/33.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Beauty of Joseon",
+        "rating": 4.5,
+        "sells": "2987"
+    },
+    {
+        "uuid": "34",
+        "title": "COSRX - Acne Pimple Master Patch",
+        "price": 3.19,
+        "description": "Helps target spots and breakout-causing bacteria, minimising the appearance of blemishes and redness. Leaving the skin clear, fresh and soothed. ",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/34.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Cosrx",
+        "rating": 4.6,
+        "sells": "2875"
+    },
+    {
+        "uuid": "35",
+        "title": "COSRX - Advanced Snail 92 All In One Cream",
+        "price": 17.59,
+        "description": "Formulated with 92% Snail Secretion Filtrate(Mucin), this cream helps naturally create the appealing glow of healthy skin",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/35.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Cosrx",
+        "rating": 4.8,
+        "sells": "2763"
+    },
+    {
+        "uuid": "36",
+        "title": "COSRX - AHA/BHA Clarifying Treatment Toner 150ml",
+        "price": 12.19,
+        "description": "This advanced formulation reduces the appearance of whiteheads, blackheads, and blemishes, while cleansing pores.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/36.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Cosrx",
+        "rating": 4.3,
+        "sells": "1756"
+    },
+    {
+        "uuid": "37",
+        "title": "COSRX - Aloe Soothing Sun Cream SPF50+ PA+++ - 50ml",
+        "price": 9.99,
+        "description": "The Cosrx Aloe Soothing Sun Screen is a sun cream that completely blocks UVA and UVB and moisturizes the skin.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/37.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Cosrx",
+        "rating": 4.5,
+        "sells": "1935"
+    },
+    {
+        "uuid": "38",
+        "title": "COSRX - Low pH Good Morning Gel Cleanser - 150ml",
+        "price": 9.89,
+        "description": "Discover day-long moisture with a daily face wash that is gentle enough for sensitive skin types.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/38.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Cosrx",
+        "rating": 4.7,
+        "sells": "2078"
+    },
+    {
+        "uuid": "39",
+        "title": "COSRX - The Vitamin C 23 Serum - 20ml",
+        "price": 16.89,
+        "description": "Highly concentrated serum that fades acne scars and brightens the complexion to revitalize dull and dry skin.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/39.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Cosrx",
+        "rating": 4.1,
+        "sells": "1564"
+    },
+    {
+        "uuid": "40",
+        "title": "LANEIGE - Lip Sleeping Mask EX - 3g",
+        "price": 2.99,
+        "description": "It is a lip-only sleeping mask that gently melts dead skin cells during the night and makes lips smooth and firm.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/40.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Laneige",
+        "rating": 4.9,
+        "sells": "1985"
+    },
+    {
+        "uuid": "41",
+        "title": "Round Lab - Birch Juice Moisturizing Wash Off Pack - 80ml",
+        "price": 22.89,
+        "description": "This wash-off mask deeply moisturizes to relieve and prevent skin concerns stemming from dehydration.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/41.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Round lab",
+        "rating": 3.8,
+        "sells": "846"
+    },
+    {
+        "uuid": "42",
+        "title": "SCINIC - Enjoy Super Mild Sun Essence SPF50+ PA++++ - 50ml",
+        "price": 4.99,
+        "description": "Physical sunblock with broad-spectrum protection of SPF 50+ PA++++ protects skin against UV rays.",
+        "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/42.jpg?raw=true",
+        "category":"Skincare",
+        "brand": "Scinic",
+        "rating": 4.4,
+        "sells": "3132"
     }
-    
 
 ]
