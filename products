@@ -342,14 +342,14 @@
     },
     {
         "uuid": "32",
-        "title": "BEAUTY OF JOSEON - Glow Serum : Propolis + Niacinamide - 30ml",
-        "price": 12.99,
-        "description": "Anti-inflammatory, Fights against acne and brightens the skin.",
+        "title": "PURITO - From Green Cleansing Oil - 200ml",
+        "price": 15.19,
+        "description": "Gentle cleansing oil thoroughly removes all traces of sun cream and heavy makeup without causing irritation.",
         "image":"https://github.com/SaraElBadri/ShopApi/blob/main/assets/skincare/32.jpg?raw=true",
         "category":"Skincare",
-        "brand": "Beauty of joseon",
+        "brand": "Purito",
         "rating": 4.6,
-        "sells": "3147"
+        "sells": "2369"
     },
     {
         "uuid": "33",
